@@ -1,0 +1,9 @@
+<div id="respone"><center>
+<form method="POST" name="queryagent" id="queryagent">
+<p class="form-submit">请输入代理商微信号：</p>
+<p><input type="text" name="wechat" id="wechat" maxlength="100" value=""/>
+<p><input type="submit" id="submit" value="验证" name="submit"/></p>
+<input type="hidden" value="1" name="query" id="query" /></p>
+</form>
+</center>
+</div>
